@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "AA-Tools",
+    "description": "Set of custom tools.",
+    "author": "Andreea ADAM",
+    "author_profile": "https://linkedin.com/in/andreea-adam/",
+    "url": "https://github.com/AA-42/AA-Tools.git",
+    "website": "https://github.com/AA-42",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}

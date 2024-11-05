@@ -1,0 +1,9 @@
+title:
+  en_us: Batch Replace (Types)
+  fr_fr: Remplacement de texte en lot
+
+tooltip: 
+  en_us: Replace specific terms or phrases in Revit model elements and parameters
+  fr_fr: Remplacez des termes ou expressions spécifiques dans les éléments et paramètres du modèle Revit
+
+highlight: new
