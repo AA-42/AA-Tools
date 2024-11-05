@@ -10,7 +10,7 @@ Batch rename Revit elements based on a predefined mapping dictionary.
 Last update:
 - [04.11.2024]
 Author: Andreea ADAM - https://github.com/AA-42
-Repository URL: https://github.com/AA-42/pyRevitBatchReplaceWords
+Repository URL: https://github.com/AA-42/AA-Tools.git
 """
 
 # IMPORTS
